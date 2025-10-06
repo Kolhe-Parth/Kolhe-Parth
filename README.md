@@ -32,7 +32,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolhe-Parth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Kolhe-Parth&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kolhe-Parth&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarygathe" />  
+  
+
 
